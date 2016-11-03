@@ -1,0 +1,55 @@
+.main {
+  margin: 20px;
+}
+
+.intro {
+  text-align: center;
+}
+
+.works {
+  text-align: center;
+  padding: 20px;
+}
+
+.whoup{
+  text-align: center;
+  margin: 10px;
+}
+.prox {
+  text-align: center;
+  margin: 10px;
+}
+.prox img {
+  display: block;
+  max-width:830px;
+  max-height:530px;
+  width: auto;
+  height: auto;
+  margin: auto;
+}
+
+.social-links ul{
+  text-align: center;
+}
+
+li{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+a:link{
+  color: #000000;
+}
+
+a:visited{
+  color: #000000;
+}
+
+a:active{
+  color: #000000;
+}
+a:hover{
+  color: #231123;
+}
