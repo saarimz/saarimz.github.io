@@ -1,35 +1,30 @@
-.main {
-  margin: 20px;
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #F7F7F7;
+
 }
 
-.intro {
-  text-align: center;
+.jumbotron{
+  background-color: #F7F7F7;
+  margin-bottom: 0px;
 }
 
-.works {
-  text-align: center;
-  padding: 20px;
-}
+#works {
+  text-align: center;}
 
-.whoup{
+#whoup{
   text-align: center;
   margin: 10px;
 }
-.prox {
+#prox {
   text-align: center;
   margin: 10px;
 }
-.prox img {
-  display: block;
-  max-width:830px;
-  max-height:530px;
-  width: auto;
-  height: auto;
-  margin: auto;
-}
 
-.social-links ul{
+#social-links ul{
   text-align: center;
+  font-size: 1em;
 }
 
 li{
